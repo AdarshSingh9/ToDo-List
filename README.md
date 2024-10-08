@@ -4,7 +4,8 @@
 Just Do It is a dynamic and aesthetic To-Do List WebApp designed to help you manage your tasks efficiently. With a clean and minimalist UI, it allows users to add, check off, and delete tasks seamlessly. The app also offers different themes to suit your mood while organizing your tasks.
 
 # Features
-Add tasks: Easily input tasks using the input field and submit them using the I Got This! button.
+## Add tasks:
+Easily input tasks using the input field and submit them using the I Got This! button.
 Delete tasks: Remove completed or unnecessary tasks with a single click.
 Mark as complete: Check off tasks when completed.
 Real-time clock: Display current date and time in the app.
